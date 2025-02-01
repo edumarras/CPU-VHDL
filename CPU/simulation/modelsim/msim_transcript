@@ -1,0 +1,97 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do CPU_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:48 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ULA
+# -- Compiling architecture LOGIC of ULA
+# End time: 11:02:48 on Jun 16,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:48 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity TRISTATE
+# -- Compiling architecture LOGIC of TRISTATE
+# End time: 11:02:48 on Jun 16,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:48 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity REG
+# -- Compiling architecture LOGIC of REG
+# End time: 11:02:48 on Jun 16,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:48 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity DATA
+# -- Compiling architecture LOGIC of DATA
+# End time: 11:02:48 on Jun 16,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:48 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity CONTROL
+# -- Compiling architecture LOGIC of CONTROL
+# End time: 11:02:49 on Jun 16,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:02:49 on Jun 16,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity CPU
+# -- Compiling architecture LOGIC of CPU
+# End time: 11:02:49 on Jun 16,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 

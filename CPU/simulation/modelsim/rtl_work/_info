@@ -1,0 +1,280 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/edu11/OneDrive/Desktop/CPU/simulation/modelsim
+Econtrol
+Z1 w1655387416
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd
+Z8 FC:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd
+l0
+L10
+V`>UFT>5G@:AF7d7?Hf:_?0
+!s100 1kFGbfOc4?UjcS5]62R7[1
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1655388169
+!i10b 1
+Z11 !s108 1655388168.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd|
+Z13 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/CONTROL.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 control 0 22 `>UFT>5G@:AF7d7?Hf:_?0
+l20
+L16
+V]K8Y[o27LgdFcMUzg5cF?2
+!s100 X[_maIjDk^_JSW>^?_Ybf1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ecpu
+Z16 w1655387618
+R2
+R3
+R4
+R5
+R6
+R0
+Z17 8C:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd
+Z18 FC:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd
+l0
+L11
+VR86NnUQ<kgAEG<^:R_BZ]2
+!s100 m3=JSATXTgj>2V^bE3d=20
+R9
+31
+R10
+!i10b 1
+Z19 !s108 1655388169.000000
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd|
+Z21 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/CPU.vhd|
+!i113 1
+R14
+R15
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 cpu 0 22 R86NnUQ<kgAEG<^:R_BZ]2
+l38
+L19
+V4oiKBHB]F>k5_^E;H9lUU2
+!s100 L3<BdOP;_RhRSK>^4aN>]1
+R9
+31
+R10
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R14
+R15
+Edata
+Z22 w1655387536
+R2
+R3
+R4
+R5
+R6
+R0
+Z23 8C:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd
+Z24 FC:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd
+l0
+L10
+ViV8hhe=_PZi`ea_dedm_43
+!s100 k0@LJ=EAO^Y?b:mP6ZO?S0
+R9
+31
+Z25 !s110 1655388168
+!i10b 1
+R11
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd|
+Z27 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/DATA.vhd|
+!i113 1
+R14
+R15
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 data 0 22 iV8hhe=_PZi`ea_dedm_43
+l43
+L18
+V7E6oiQ[I_PRXcLak0alnk2
+!s100 A<l185^APW5hz12JiJERz2
+R9
+31
+R25
+!i10b 1
+R11
+R26
+R27
+!i113 1
+R14
+R15
+Ereg
+Z28 w1655386829
+R2
+R3
+R4
+R5
+R6
+R0
+Z29 8C:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd
+Z30 FC:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd
+l0
+L10
+VeLT@ZN;c7MUWMfhm?EF3>3
+!s100 Ac22f3bKoUPY?:_FP3aR72
+R9
+31
+R25
+!i10b 1
+R11
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd|
+Z32 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/REG.vhd|
+!i113 1
+R14
+R15
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 reg 0 22 eLT@ZN;c7MUWMfhm?EF3>3
+l17
+L16
+V2U2`:5FzSA@`n8JG<nocS3
+!s100 ]U6A`F6OBio7?<I`4PZji3
+R9
+31
+R25
+!i10b 1
+R11
+R31
+R32
+!i113 1
+R14
+R15
+Etristate
+Z33 w1655386968
+R2
+R3
+R4
+R5
+R6
+R0
+Z34 8C:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd
+Z35 FC:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd
+l0
+L10
+Vo3g0c17R[N74Qlo`o^gK80
+!s100 =3>MKA0o@eO0<S73OGTGa2
+R9
+31
+R25
+!i10b 1
+R11
+Z36 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd|
+Z37 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/TRISTATE.vhd|
+!i113 1
+R14
+R15
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 tristate 0 22 o3g0c17R[N74Qlo`o^gK80
+l18
+L16
+VzJibhh5Vc3;NhgHD2_i?i1
+!s100 Zh5RKB[O5[9i4WG>KVDZ21
+R9
+31
+R25
+!i10b 1
+R11
+R36
+R37
+!i113 1
+R14
+R15
+Eula
+Z38 w1655387062
+R2
+R3
+R4
+R5
+R6
+R0
+Z39 8C:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd
+Z40 FC:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd
+l0
+L10
+V^fN56DQU]aW>CW9Nb8=?U2
+!s100 c>KdP0^NnE1j6^P^XQGHV0
+R9
+31
+R25
+!i10b 1
+R11
+Z41 !s90 -reportprogress|300|-93|-work|work|C:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd|
+Z42 !s107 C:/Users/edu11/OneDrive/Desktop/CPU/ULA.vhd|
+!i113 1
+R14
+R15
+Alogic
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 ula 0 22 ^fN56DQU]aW>CW9Nb8=?U2
+l17
+L16
+V^^H=1Z9Jbo8N[c_6[6Ei10
+!s100 4MMKoMm:ZzNMglk6V]ZcC2
+R9
+31
+R25
+!i10b 1
+R11
+R41
+R42
+!i113 1
+R14
+R15

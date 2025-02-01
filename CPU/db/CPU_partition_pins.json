@@ -1,0 +1,105 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DONE",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BARRAMENTO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK",
+					"strict" : false
+				},
+				{
+					"name" : "FUNC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FUNC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DATAENT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RX[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
